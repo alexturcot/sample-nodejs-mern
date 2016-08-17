@@ -1,8 +1,7 @@
 What is this?
 ---------------
 * I follow mern.io instruction and it worked like a charm.
-* mern is a starter project including **M**ongodb, **E**press, **R**eact and **N**ode.js
-* I believe mern is a spinoff from mean: **M**ongodb, **E**press, **A**ngular and **N**ode.js
+* MERN Stack is a starter project including **M**ongodb, **E**press, **R**eact and **N**ode.js (as far as I know, mern is a spinoff from MEAN Stack: **M**ongodb, **E**press, **A**ngular and **N**ode.js
 
 - npm install -g mern-cli
 - mern init sample-nodejs-mern
